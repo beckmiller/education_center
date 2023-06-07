@@ -1,0 +1,1 @@
+from courses.views.course import CourseViewSet
